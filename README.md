@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 About Me
+Hi, I’m Janani! 
 
-<!--
-**JSR-07/JSR-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I’m just starting my coding journey, and this GitHub is where I’m learning, experimenting, and building small projects to grow my skills.
 
-Here are some ideas to get you started:
+🌟 What I’m Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Basics of programming and problem-solving.
+🌐 Exploring web development and how websites work.
+📊 Playing around with data and simple tools.
+
+🌱 I’m Excited About:
+Learning new technologies and languages 🌍
+Building fun projects and improving every day 🚀
+Connecting with other beginners and learning from experienced developers 🤝
+
+⚡ Fun Fact: When I’m not coding, you’ll find me reading scientific papers, watching documentaries and playing paper games.
+
+Let’s learn and grow together—one step at a time! 😊
